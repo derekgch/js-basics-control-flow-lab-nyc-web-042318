@@ -2,3 +2,11 @@
 function scuberGreetingForFeet() {
 
 }
+
+function ternaryCheckCity() {
+
+}
+
+function switchOnCharmFromTip() {
+
+}
