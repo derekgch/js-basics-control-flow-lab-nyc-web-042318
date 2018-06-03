@@ -7,13 +7,13 @@ function scuberGreetingForFeet(ride) {
   }else if (ride <= 400) {
     return 'This one is on me!';
   }else {
-    return "none"
+    return "none";
   }
 
 }
 
 function ternaryCheckCity(city) {
-  return (city === "NYC", 'Ok, sounds good.' : 'No go.')
+  return (city === "NYC", 'Ok, sounds good.' : 'No go.');
 }
 
 function switchOnCharmFromTip() {
